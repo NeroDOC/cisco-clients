@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/GHFPwUryd9Sk-xKUpjrduaD3cOFzMOJ1ehnI51kGuXD47Lfs5RShCDX5_BuRQN5j0SK_T_eimYU04P6_7QhR" width="96" alt="Cisco Secure Client">
+</p>
+
 # Cisco Secure Client — Installers Archive
 
 A personal archive of **Cisco Secure Client 5.x** installers for Windows, macOS and Linux (x86_64 and ARM64).
