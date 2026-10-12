@@ -9,7 +9,7 @@ A personal archive of **Cisco Secure Client 5.x** installers for Windows, macOS 
 The repository itself contains only this README. **All files are published as [Releases](https://github.com/NeroDOC/cisco-clients/releases)**, one release per client version, with every file Cisco provides for that version.
 
 > [!IMPORTANT]
-> Cisco Secure Client is proprietary software owned by Cisco Systems, Inc. This repository is not affiliated with or endorsed by Cisco. Files are kept here for convenience and internal use only. Use them only if you are covered by a valid Cisco license / support contract. Official downloads: [software.cisco.com](https://software.cisco.com/download/home).
+> Cisco Secure Client is proprietary software owned by Cisco Systems, Inc. This repository is not affiliated with or endorsed by Cisco. Files are kept here for convenience and internal use only. Use them only if you are covered by a valid Cisco license / support contract. Official downloads: [software.cisco.com](https://software.cisco.com/download/home/286330811/type/282364313/).
 
 ---
 
@@ -195,4 +195,4 @@ gh release download v5.1.20.333 -R NeroDOC/cisco-clients -p "*win*webdeploy*"
 
 ## 📝 Release notes
 
-[Cisco Secure Client 5 Release Notes](https://www.cisco.com/c/en/us/support/security/secure-client-5/products-release-notes-list.html)
+[Cisco Secure Client 5 Release Notes](https://www.cisco.com/c/en/us/td/docs/security/vpn_client/anyconnect/Cisco-Secure-Client-5/release/notes/release-notes-cisco-secure-client-5-1.html)
